@@ -1,0 +1,16 @@
+{
+    "all_scores_linear": "Linear Regression:\n    r2 per target: [0.21115214 0.17101168 0.26192583]\n    r2 average: 0.21469654935798752\n    mean squared error: 163.67704425196624",
+    "all_scores_randomForest": " RandomForest:\n    r2 per target: [-0.01639999 -0.06372956  0.07777871]\n    r2 average: -0.000783611505626447\n    mean squared error: 208.5074469468243",
+    "math score": [
+        "Linear Regression:\n    r2 per target: [0.8764671]\n    r2 average: 0.8764671045560087\n    mean squared error: 26.49409699755042",
+        " RandomForest:\n    r2 per target: [0.8385676]\n    r2 average: 0.838567604356844\n    mean squared error: 34.62240185777779"
+    ],
+    "reading score": [
+        "Linear Regression:\n    r2 per target: [0.92225208]\n    r2 average: 0.9222520770527374\n    mean squared error: 15.009384246022655",
+        " RandomForest:\n    r2 per target: [0.90179593]\n    r2 average: 0.9017959315603732\n    mean squared error: 18.958482"
+    ],
+    "writing score": [
+        "Linear Regression:\n    r2 per target: [0.94256523]\n    r2 average: 0.9425652316006166\n    mean squared error: 12.591516171826278",
+        " RandomForest:\n    r2 per target: [0.92592849]\n    r2 average: 0.9259284856250954\n    mean squared error: 16.238816610833332"
+    ]
+}
