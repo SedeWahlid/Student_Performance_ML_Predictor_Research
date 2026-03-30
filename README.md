@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 **Step 1: Train the models and generate reports**  
-*You can run this first to create the `.joblib` model files and `.json` reports but they are already provided in the models folder.*
+*You can run this first to create the `.joblib` model files and `.json` reports but they are already provided in the models and reports folder.*
 ```bash
 python train.py
 ```
@@ -96,7 +96,7 @@ Then open your browser to:
 ## 📁 Project Structure
 
 ```
-📦 student_performance_ml
+📦 Student_Performance_ML_Predictor_Research
  ┣ 📂 data
  ┃ ┗ 📜 StudentsPerformance.csv
  ┣ 📂 models
