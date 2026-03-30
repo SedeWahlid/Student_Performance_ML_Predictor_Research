@@ -2,4 +2,4 @@ scikit-learn
 numpy
 pandas
 joblib
-streamlit
+streamlit >= 1.52.0
