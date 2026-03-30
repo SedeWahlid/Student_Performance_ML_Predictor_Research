@@ -14,7 +14,10 @@
 
 ## 🎮 DEMO
 
-Playground: coming soon...
+Playground: https://studentperformancemlpredictorresearch-wjqp7herf3zcvdeucccla2.streamlit.app/
+
+## 🧷 Dataset
+https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
 
 ## ✨ Features
 
